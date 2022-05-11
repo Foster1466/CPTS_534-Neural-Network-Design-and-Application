@@ -1,6 +1,8 @@
 # CPTS_534-Neural-Network-Design-and-Application
 Code for Neural network project
 
+# TOPIC: IMAGE CAPTION GENERATOR
+
 The purpose of this project is to adress a real-world problem and apply techniques learned in this class to solve the addressed problem. 
 
 In this project I have created and trained two models.
